@@ -8,17 +8,12 @@
     "start": "nodemon app.js",
     "dev": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dinushchathurya/nodejs-ecommerce-api.git"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dinushchathurya/nodejs-ecommerce-api/issues"
-  },
-  "homepage": "https://github.com/dinushchathurya/nodejs-ecommerce-api#readme",
+ 
+
   "devDependencies": {
     "nodemon": "^3.0.2"
   },
